@@ -1,0 +1,245 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter from Scotland with observations upon the Anti-Erastian, anti-prælatical and phanatical Presbyterian party there by way of dialogue between Anonymus and Antiprælatus.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1682</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A48077</idno>
+            <idno type="STC">Wing L1503</idno>
+            <idno type="STC">ESTC R36332</idno>
+            <idno type="EEBO-CITATION">15666519</idno>
+            <idno type="OCLC">ocm 15666519</idno>
+            <idno type="VID">104305</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A48077)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 104305)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1152:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter from Scotland with observations upon the Anti-Erastian, anti-prælatical and phanatical Presbyterian party there by way of dialogue between Anonymus and Antiprælatus.</title>
+               </titleStmt>
+               <extent>1 sheet (2 p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed for E.C.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1682.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>First part signed: Anonymus.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church and state --  Scotland.</term>
+               <term>Scotland --  Church history --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-07</date>
+            <label>Sarah Wingo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-07</date>
+            <label>Sarah Wingo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:104305:1"/>
+            <head>A Letter from Scotland, WITH OBSERVATIONS UPON THE Anti-Eraſtian, Anti-Praelatical, <hi>and</hi> Phanatical Presbyterian <hi>Party there: By way of a Dialogue between</hi> Anonymus <hi>and</hi> Antipraelatus.</head>
+            <div type="letter">
+               <opener>
+                  <salute>SIR,</salute>
+               </opener>
+               <p>
+                  <hi>I</hi> Acknowlege my ſelf extreamly your Debter for the conſtant Intelligence you ſend me, affairs are going in the right Channel, and curſed be he that diverts their courſe: I receive your <hi>Obſervator</hi> every Poſt, the Author does diſcover the under<g ref="char:EOLhyphen"/>miners of <hi>Authority,</hi> and conſequently of your <hi>Peace,</hi> in very Intelligible Characters; and ſince we are endangered by a <hi>Malicious,</hi> and <hi>reſtleſs</hi> faction of <hi>Phanaticks,</hi> I ſhall endeavour to repreſent them in their true collours. I am confident this will give no offence to Authority, whoſe only Crime is the weakneſs of its Author: Others might have done it more effectu<g ref="char:EOLhyphen"/>ally, but it were unreaſonable for me to refuſe to fight for my Prince, becauſe others might do that better: And now I cannot but regret our circumſtances, when I conſider how our affairs are miſrepreſented abroad: I muſt confeſs we live among a Genera<g ref="char:EOLhyphen"/>tion of <hi>Vipers,</hi> whoſe teeth are ſet on edge to tear out the Bowels of their <hi>Mother,</hi> tho they cannot reach her, but through the ſides of a moſt Indulgent <hi>Father</hi> his <hi>Sacred Majeſty:</hi> But I can aſſure you that Party is very inconſiderable and dayly loſes Ground, while Loyalty gains it: Certainly if <hi>Rebellion</hi> and <hi>Witch craft</hi> where not of kin and <hi>Faſcination</hi> in the caſe, Men would not be at ſo much pains to enſure to themſelves Damnation; is there any Crime more ſeverely threatned in Scripture than <hi>Reſiſting Authority? they that Reſiſt ſhall receiue to themſelves Damnation;</hi> the <hi>Laws of the Land</hi> threaten it, and <hi>Reaſon</hi> will allow it no favour: For before we ingage in any thing, we ought to conſider the conveniencies and inconveniencies, that attend the undertaking, but <hi>reaſon</hi> and <hi>experience</hi> the beſt School-Maſter will inſtruct us, that a Civil War (the moſt intollerable of all burthens) is the natural product of <hi>Reſiſtance,</hi> therefore <hi>Reſiſtance,</hi> as the greateſt evil; ought to be abandoned Neither can <hi>Gratitude</hi> admit of it, for we owe ſo many bleſſings to the Government, that it were the higth of Injuſtice to fly in its face: The Government of a <hi>Caligula</hi> is <hi>deſirable,</hi> if compared with the <hi>Miſeries</hi> of that Land, <hi>Where every Man, does that which ſeems good in his own eyes:</hi> So that it is evident that none but <hi>Knaves</hi> invented, and <hi>Fools</hi> approve, ſo <hi>Unchriſtian, Illegal, Unreaſonable</hi> and <hi>Ingrate principles.</hi> Sir, this is a peice of Service I owe to my King and Country, however I have reſolved to give better Teſtimonies of the ſenſe I have of my <hi>Duty</hi> when an occaſion ſhall offer, and till then let me be known by no other Title than that of,</p>
+               <closer>
+                  <signed>
+                     <hi>Your Friend and</hi> Anonymus.</signed>
+               </closer>
+            </div>
+            <div type="part">
+               <head>News publick and private explained, the <hi>Party</hi> in a bad taking. A Man may <hi>ſalva conſcientia</hi> indulge the fleſh a little, ſo it be done in the fear of God, of protecting Preachers and others. Reſiſtance the Soul of the work. Of Whiggs, Preachers, Packmen, and dealers in books.</head>
+               <sp>
+                  <speaker>Anonymus.</speaker>
+                  <p>I See you have been in the Coffee-Houſe: What News are ſtirring?</p>
+               </sp>
+               <sp>
+                  <speaker>Antiprelatus.</speaker>
+                  <p>I can hear no good news, the <hi>Pillars</hi> of the <hi>Cauſe</hi> are tot<g ref="char:EOLhyphen"/>tering, our <hi>Private</hi> News bring no comfort; and what can we expect from the <hi>Publick,</hi> but matter of grief? Now I fear the <hi>Cauſe</hi> will down.</p>
+               </sp>
+               <sp>
+                  <speaker>Anony.</speaker>
+                  <p>I remember, to have heard the diſtinction of <hi>Publick</hi> and <hi>Private</hi> news ring in the ſtreets, a while ago: But now the import of theſe terms, as you uſe them, is al<g ref="char:EOLhyphen"/>moſt out of my head.</p>
+               </sp>
+               <sp>
+                  <speaker>Antipre.</speaker>
+                  <p>
+                     <hi>Private</hi> news are theſe which our correſpon<g ref="char:EOLhyphen"/>dents ſend us exactly Calculated for the Meridian of the <hi>True Phanatical Presbyterian, Anti-eraſtian, Anti-Praelatical</hi> party, however diſperſed in any place of the Earth: <hi>Publick</hi> news are theſe which go abroad <hi>Cum Privilegio.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Anony.</speaker>
+                  <p>I remember the private news that <hi>the City of</hi> London, <hi>was in Armes, and that the</hi> Dutch <hi>had joyned with them in Petitioning for a Parliament, that his Royal High<g ref="char:EOLhyphen"/>neſs was fairly repulſed when he came laſt to</hi> London <hi>by</hi> 50000 <hi>Men in Arms,</hi> did tickle the <hi>Party</hi> a little, but methinks, the <hi>diſappointments</hi> they met with ſhould be very inſupportable after ſuch hopes: But what <hi>private</hi> news are now current? Be igenuous.</p>
+               </sp>
+               <sp>
+                  <speaker>Antipre.</speaker>
+                  <p>Not one word of news is ſtirring, except what is made <hi>publici:</hi> Our Informers abroad <hi>will not</hi> ſend bad, and <hi>cannot</hi> ſend good news: And as for affairs here, you ſee how they go, we have been <hi>praying</hi> for an Engliſh Parliament, but have got no return, neither by <hi>Dreams,</hi> nor by <hi>
+                        <g ref="char:V">Ʋ</g>rim,</hi> nor by Prophets: We are in <hi>Sauls</hi> condition, before he cauſed to raiſe <hi>Samuel</hi> to him.</p>
+               </sp>
+               <sp>
+                  <speaker>Anony.</speaker>
+                  <p>Well if you would conſult a woman of a <hi>fa<g ref="char:EOLhyphen"/>miliar Spirit,</hi> alias a <hi>Witch,</hi> as did <hi>Saul;</hi> you will have leſs difficulty of finding her, tho a great many of that ſort of late, be added to the number of your Martyrs: I muſt confeſs you are but in a bad taking, your friends in <hi>England</hi> do not agree with the air there, but are gone in ſearch of more healthful Climats, and our Kingdoms
+<pb n="2" facs="tcp:104305:2"/> cold as it is, is too hot for your Polititions here; you have nothing left but a few <hi>Tools</hi> ready for any work, but none to ſet them a going; and without being uſed they will ruſt and be of no uſe. I imagine, I hear the <hi>Cauſe</hi> at the laſt gaſp complaining, its Votaries are purſued to, and hunted from their laſt and ſafeſt refuge, the Bed-Chambers and Cloſets of <hi>Keeping</hi> (I mean protecting) Ladies: They have oftimes given proof of their <hi>Man<g ref="char:EOLhyphen"/>hood</hi> there: By their skill at cloſe fighting, as well as <hi>Preach<g ref="char:EOLhyphen"/>ing:</hi> They are ſtill in Duty one way or other: You know a Preacher, who in a Ladies Family improved that pre<g ref="char:EOLhyphen"/>cept, <hi>increaſe and multiply</hi> extreamly; and ſuch effect had his <hi>Doctrines</hi> and <hi>
+                        <g ref="char:V">Ʋ</g>ſes</hi> upon the Ladies Daughter; that it was evident by the <hi>fruit</hi> his ſeed had been ſown in <hi>good ground.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Antipre.</speaker>
+                  <p>I muſt interrupt you ſince it runs in my head; and vindicate that Preacher you ſpeak of; I had the Narration from his own Mouth of that affair: Several of his <hi>Majeſties</hi> Guard having in the night time invaded the Ladies Houſe, in ſearch of my Friend, ſhe for his ſecurity, Charitablely did take him to her own Bed, and left him there with her Daughter, while ſhe waited upon the Guard, and had got them diſpatched, in the mean time my Friend fell a trembling; and the young Lady his <hi>Bed<g ref="char:EOLhyphen"/>fellow</hi> out of Charity, could not but cheriſh and embrace and ſuch effect had her Embraces, that the temptation grew too ſtrong to be <hi>Reſiſted:</hi> Nay he gave me inſtances of ſeveral Saints who had done the like, even while they converſed with none but thoſe <hi>in the ſtate of Grace:</hi> And yet their <hi>Saintſhip</hi> was never called in queſtion: The truth is betwixt you and me (when Scandal can be avoyded) a man may <hi>ſalvâ conſcientiâ,</hi> indulge the fleſh a little that way ſo it be done in <hi>the fear of God, and not with the Daughters of the Land:</hi> It is not for the <hi>intereſt</hi> of the <hi>Cauſe</hi> to deny it.</p>
+               </sp>
+               <sp>
+                  <speaker>Anony.</speaker>
+                  <p>I love thy Ingenuity; I have heard what ſtrange feats the <hi>Cauſe</hi> has done, it has <hi>Sanctified</hi> grea<g ref="char:EOLhyphen"/>ter crimes indeed; have not the worſt of <hi>Murtherers</hi> been reputed <hi>Martyrs?</hi> Is not Rebellion made the Teſt of the ſincerity of <hi>Religion?</hi> You know I could give ma<g ref="char:EOLhyphen"/>ny inſtances to prove this and much more. Yea Bug<g ref="char:EOLhyphen"/>gery, <hi>Beſtiality, inceſt,</hi> Adultery, clame <hi>intereſt:</hi> In your <hi>Cauſe:</hi> But I ſhall at this time forbear.</p>
+               </sp>
+               <sp>
+                  <speaker>Antipre.</speaker>
+                  <p>I ſhall let you rail on; but do not you think that Ladies meet with hard Meaſure to be carryed be<g ref="char:EOLhyphen"/>fore Criminal Courts for receipting <hi>honeſt men,</hi> who have no other retreat, in time of danger? Is it not <hi>Barbarity.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Anony.</speaker>
+                  <p>No, I neither think it hard nor <hi>Barbarous:</hi> For Women are certainly in this caſe the cauſe of our ruine, when they <hi>Keep</hi> Preachers, who Sow poyſonous ſeed in the Land. And if they might plead Impunity becauſe of their Sex, we ſhould never remove the <hi>cauſe</hi> of our <hi>diſturbances,</hi> we ſhould never enjoy <hi>peace</hi> nor <hi>tranquility:</hi> Your principle of <hi>Reſiſtence</hi> is ſo far improved, that the Kings <hi>Authority</hi> is <hi>declined,</hi> and a <hi>War Proclaimed</hi> againſt him; It is thought <hi>Duty</hi> at any rate to deſtroy his <hi>Dutiful</hi> Subjects; and muſt <hi>Authority</hi> tamely ſuffer <hi>Women,</hi> to harbour Inſtruments to put in Execution your bloody deſignes? This were a <hi>Barbarity</hi> indeed, but to the Go<g ref="char:EOLhyphen"/>vernment: Eſpecially when your Murthering Martyrs, have ſealed that Principle with their blood, that it is not only <hi>Lawful</hi> but <hi>Duty</hi> to Murther his <hi>Majeſty</hi> and all his Servants: A Principle that <hi>Humanity,</hi> muſt bluſh at.</p>
+               </sp>
+               <sp>
+                  <speaker>Antipre.</speaker>
+                  <p>That is but the principle of a few; but may not <hi>honeſt well-meaning</hi> Men be protected? Who do not Preach up <hi>Reſiſtance,</hi> and whoſe <hi>Conſcience</hi> will not per<g ref="char:EOLhyphen"/>mit them to comply with the times.</p>
+               </sp>
+               <sp>
+                  <speaker>Anony.</speaker>
+                  <p>Authority <hi>Protects</hi> honeſt men; for no <hi>honeſt</hi> Man will diſobey the Laws of the Land where he lives, and thoſe who obey, their obedience is a ſurer ſafeguard, than a Ladies Chamber. Thoſe who are not pleaſed with our Laws, let them go and ſearch for better elſe<g ref="char:EOLhyphen"/>where, or ſtand to their hazard at home: But the truth is whatever you may pretend <hi>Reſiſtance,</hi> is the Soul of your whole work, was not your Covenant that Monſter of Religion, brought fourth and mantained by Rebelling, was it not nurſed with, and yet thirſts after Chriſtian blood? I hope you will acknowledge theſe things, ſince they cannot be ſuſpect of falſhood: We have learned from the principal Standards of the <hi>Party;</hi> (who are living inſtances of his <hi>Majeſties</hi> inclination rather to pardon <hi>penitent,</hi> than puniſh <hi>obſtinate</hi> offenders) that the <hi>Intereſt</hi> of a few Men of <hi>broken Eſtates</hi> and no <hi>Con<g ref="char:EOLhyphen"/>ſcience.</hi> Was the Spring that acted the people as they pleaſed; but now when the <hi>Mobile</hi> is left to it ſelf j you <gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e what effects <hi>furious Zeal</hi> in Conjunction with ignorance hath produced; have not a party of you <hi>burnd the Bible, Renounced their Baptiſims; committed Adulteries every Man with his Neighbours Wife</hi> of late at a <hi>Meeting</hi> near <hi>Bor<g ref="char:EOLhyphen"/>rowſtouneſs,</hi> retaining nothing of <hi>Saintſhip</hi> but that <hi>of having all things Common.</hi> But you are not ignorant of hundreds of ſuch inſtances perhaps not come to my knowledge. Therefore be ingenuous, confeſs all to be a <hi>Cheat,</hi> you have an Indulgent Prince: And beſides it will be the greateſt deſpight you can do the Devil for fruſtrating your hopes.</p>
+               </sp>
+               <sp>
+                  <speaker>Antipre.</speaker>
+                  <p>vou miſtake me perhaps, and think I will divulge the <hi>Secrets</hi> of the <hi>Saints; Shipwrack my Conſci<g ref="char:EOLhyphen"/>ence, loſe</hi> my <hi>inward peace,</hi> and <hi>Break my Staff of Bread.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Anony.</speaker>
+                  <p>I have more Charity than to think it was a principle of Conſcience made you <hi>Phanatick;</hi> I had ra<g ref="char:EOLhyphen"/>ther think you <hi>Knave</hi> than <hi>Fool,</hi> for <hi>Knaves</hi> may <hi>repent</hi> and <hi>make amends</hi> by their after ſervices to the Govern<g ref="char:EOLhyphen"/>ment, but little to be for hoped from fools, and the <hi>di<g ref="char:EOLhyphen"/>viſion</hi> of the <hi>Party</hi> in <hi>Fools</hi> and <hi>Knaves</hi> is exact: And if (as I muſt p<gap reason="illegible" resp="#MURP" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ſume) <hi>Intereſt</hi> led you from the way; Let the ſame <gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>otive now bring you back; there are many ways of living honeſtly, and tho your Gain be leſs yet your ſafety will caſt the Ballance: You can have no place of retreat now.</p>
+               </sp>
+               <sp>
+                  <speaker>Antipre.</speaker>
+                  <p>I will be ſo ingenuous as to acknowledge I was never ſatisfied with the methods taken by the <hi>Party,</hi> I have told them of their Errors over and over again; but it would do no good: However you muſt pardon me to think your <hi>Complement</hi> but very <hi>courſe:</hi> And your motives for my return not at all <hi>convincing:</hi> There are yet places of retreat even at home, but I can live abroad: If one <hi>Trade</hi> fail me I can fall to another.</p>
+               </sp>
+               <sp>
+                  <speaker>Anony.</speaker>
+                  <p>I thought you only dealt in <hi>Rebellion,</hi> (I would have ſaid Religion.) But it ſeems you deal in other Com<g ref="char:EOLhyphen"/>modities; pray inform me further.</p>
+               </sp>
+               <sp>
+                  <speaker>Antipre.</speaker>
+                  <p>It is true, the propa<gap reason="illegible" resp="#MURP" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>tion of Religion is the <hi>end</hi> I aim at, but I uſe not alwayes the ſame <hi>means:</hi> In <hi>Scotland</hi> I am Preacher, in <hi>England</hi> Pedler, in <hi>Holland</hi> I deal in Books.</p>
+               </sp>
+               <sp>
+                  <speaker>Anony.</speaker>
+                  <p>How much <hi>pains</hi> are you at, to <hi>do the Devils buſineſs;</hi> to raiſe a <hi>flame</hi> to conſume three Kingdoms; He dilate you to his Majeſties Advocate as an <hi>Incendiary</hi> a <hi>Wilful fire raſer.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Antipre.</speaker>
+                  <p>Then to be alike with you, I ſhall dilate you at our next publick Meeting as an <hi>Incorrigable Enemy</hi> to <hi>God</hi> and <hi>his Cauſe;</hi> and as a perſon not worthy to live. This will be Sentence of Death without further proof than my aſſertion; and when ever occaſion offers none of the <hi>Party</hi> will think it below him to be your Execu<g ref="char:EOLhyphen"/>tioner, for this Crime. And tho you ſhould dilate me, your Evidence wil, be no proof.</p>
+               </sp>
+               <sp>
+                  <speaker>Anony.</speaker>
+                  <p>You talk ſo <gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>aturally of Evidence, that I believe you would make a <hi>Swingeing witneſs</hi> if Occaſion of<g ref="char:EOLhyphen"/>fer, and this would be another <hi>means</hi> to promote the <hi>Cauſe:</hi> But now I muſt be going, and if you will meet me here again to Morrow, we ſhall talk further of affairs.</p>
+               </sp>
+               <sp>
+                  <speaker>Antipre.</speaker>
+                  <p>Ile not fail to meet you.</p>
+               </sp>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed for <hi>E. C.</hi> 1682.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
